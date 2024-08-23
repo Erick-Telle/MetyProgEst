@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AreaCirculo
 {
-    internal class Program
+    internal class Program4
     {
         static void Main(string[] args)
         {
